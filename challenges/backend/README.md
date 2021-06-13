@@ -38,7 +38,7 @@ npm test
 
 You can run the following commands:
 ```
-npm run converage
+npm run coverage
 ```
 
 # 5. Architecture
